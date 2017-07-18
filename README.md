@@ -1,5 +1,8 @@
 # Nginx Reverse Proxy
+![nginx-latest](https://img.shields.io/badge/nginx-latest-brightgreen.svg) ![mit](https://img.shields.io/badge/license-MIT-blue.svg)
+
 This is a super simple nginx setup that is pre-configured to allow for a simple reverse-proxy setup without the need for target services to be running in linked containers.
+
 
 ## Usage
 
