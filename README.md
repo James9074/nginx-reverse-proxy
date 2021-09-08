@@ -26,6 +26,6 @@ services:
 If you need to extend the nginx conf you can volume mount your own like so (copy the one from this repo first):
 ```YAML
     volumes:
-        - ./default.conf.template:/etc/nginx/conf.d/default.template
+        - ./default.conf.template:/etc/nginx/conf.d/default.conf.template
 ```
 
